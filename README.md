@@ -94,31 +94,31 @@ python hangman.py
 
 ## 🏠 Home Screen
 
-![Home Screen](SS/home-screen.png)
+![Home Screen](screenshots/home-screen.png)
 
 ---
 
 ## 🎮 Gameplay
 
-![Gameplay](SS/gameplay.png)
+![Gameplay](screenshots/gameplay.png)
 
 ---
 
 ## 🏆 Winning the Game
 
-![Winning](SS/winning-game.png)
+![Winning](screenshots/winning-game.png)
 
 ---
 
 ## 💀 Game Over
 
-![Game Over](SS/losing-game.png)
+![Game Over](screenshots/losing-game.png)
 
 ---
 
 ## 🔄 Play Again
 
-![Play Again](SS/play-again.png)
+![Play Again](screenshots/play-again.png)
 
 ---
 
